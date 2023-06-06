@@ -13,9 +13,7 @@ This is early design captures
 ![Assimilate_GDD (4)](https://user-images.githubusercontent.com/22080463/236384102-7214fb35-b7cf-4f52-a12a-457527e3304b.png)
 This is early design captures
 ![Assimilate_GDD (5)](https://user-images.githubusercontent.com/22080463/236384105-1857972a-f013-44f7-9169-9bed5a40047d.png)
-![Assimilate_GDD (6)](https://user-images.githubusercontent.com/22080463/236384110-7fae399c-66f3-4ad1-ac66-c5b85db34ecd.png)
-![Assimilate_GDD (7)](https://user-images.githubusercontent.com/22080463/236384116-34eddb8b-7fc2-4085-b3ee-55772769a6d6.png)
-![Ghyslain_G_fight_cancer_in_space_shooter_game_74fd1619-b910-4092-82ce-8fe58cd81a4d](https://user-images.githubusercontent.com/22080463/187123399-973f1802-2b65-4bd9-90a8-3b8e8be353df.png)
+
 
 Overview:
 Retro Void is a space shooter game that combines the nostalgic atmosphere of the 80s with fast-paced action and customizable gameplay. Players will navigate their spaceship through visually stunning space environments, battling waves of enemies and upgrading their weapons through a skill tree system.
@@ -99,3 +97,8 @@ Replay Value and Unlockables:
 
 Include hidden collectibles or achievements that can unlock additional ships, weapons, or customization options, encouraging players to explore and replay levels.
 Introduce score-based leaderboards or time-based challenges to foster competition among players.
+
+
+![Assimilate_GDD (6)](https://user-images.githubusercontent.com/22080463/236384110-7fae399c-66f3-4ad1-ac66-c5b85db34ecd.png)
+![Assimilate_GDD (7)](https://user-images.githubusercontent.com/22080463/236384116-34eddb8b-7fc2-4085-b3ee-55772769a6d6.png)
+![Ghyslain_G_fight_cancer_in_space_shooter_game_74fd1619-b910-4092-82ce-8fe58cd81a4d](https://user-images.githubusercontent.com/22080463/187123399-973f1802-2b65-4bd9-90a8-3b8e8be353df.png)
