@@ -68,8 +68,6 @@ Include hidden collectibles throughout levels, rewarding players with additional
 Unlock special abilities, upgrades, or cosmetic enhancements through completing specific challenges or achieving high scores.
 Multiplayer and Social Features:
 
-Cooperative Gameplay: Allow players to team up
-
 Visual Design:
 
 Utilize vibrant neon colors and a futuristic aesthetic reminiscent of the 80s.
