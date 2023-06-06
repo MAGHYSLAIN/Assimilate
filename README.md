@@ -3,7 +3,10 @@ Space shooter in Unreal where you can fight cancer
 Unreal 5.2
 
 ![GitCapture_00](https://user-images.githubusercontent.com/22080463/187018625-c0770d7e-a53f-4d16-8e61-dca33ead662e.PNG)
+
 In this prototype space shooter where you can switch from first to third person
+This is early design captures
+
 [Assimilate_GDD.pdf](https://github.com/MAGHYSLAIN/Assimilate/files/11380269/Assimilate_GDD.pdf)
 ![Assimilate_GDD (1)](https://user-images.githubusercontent.com/22080463/236383954-ab24ac18-344b-445a-aa8d-635c32229384.png)
 ![Assimilate_GDD (3)](https://user-images.githubusercontent.com/22080463/236384094-15c5a4ab-1efe-4dbd-bdf9-0f98e0a7fd4c.png)
