@@ -13,6 +13,63 @@ In this prototype space shooter where you can switch from first to third person
 ![Assimilate_GDD (7)](https://user-images.githubusercontent.com/22080463/236384116-34eddb8b-7fc2-4085-b3ee-55772769a6d6.png)
 ![Ghyslain_G_fight_cancer_in_space_shooter_game_74fd1619-b910-4092-82ce-8fe58cd81a4d](https://user-images.githubusercontent.com/22080463/187123399-973f1802-2b65-4bd9-90a8-3b8e8be353df.png)
 
+Overview:
+Retro Void is a space shooter game that combines the nostalgic atmosphere of the 80s with fast-paced action and customizable gameplay. Players will navigate their spaceship through visually stunning space environments, battling waves of enemies and upgrading their weapons through a skill tree system.
+
+Key Features:
+Retro wave-inspired visual style with vibrant neon colors, pixel art, and scanlines.
+Seamless switching between first-person and third-person perspectives for varied gameplay experiences.
+Skill tree system for upgrading the player's spaceship and weapons.
+Diverse enemy types with unique attack patterns and behaviors.
+Engaging boss battles and challenging levels with increasing difficulty.
+Synthwave music and retro-inspired sound effects for an immersive audio experience.
+Optional multiplayer modes, including cooperative gameplay and competitive PvP modes.
+Unlockable content and replay value through collectibles, achievements, and leaderboards.
+Gameplay:
+Controls:
+
+Keyboard and mouse for PC or console controller support for gamepad input.
+Intuitive controls for spaceship movement, shooting, and switching perspectives.
+Customizable control settings to accommodate player preferences.
+Perspectives:
+
+First-Person: Provides a cockpit view for intense immersion and precision shooting.
+Third-Person: Offers a wider field of view and a better sense of surroundings for strategic maneuvering.
+Skill Tree and Upgrades:
+
+Skill tree divided into different branches, each representing a different aspect of the player's spaceship (e.g., weapons, shields, speed, maneuverability).
+Players earn skill points by completing levels and defeating enemies, which can be invested in the skill tree to unlock and upgrade various abilities.
+Upgrades include enhanced firepower, special weapon types, improved shields, faster maneuverability, and advanced abilities like time dilation or energy absorption.
+Weapons and Power-Ups:
+
+Provide a selection of primary weapons with different characteristics, such as lasers, missiles, or energy beams.
+Players can discover or purchase additional weapons or unlock upgrades for existing weapons through gameplay progression.
+Power-ups appear throughout levels, granting temporary enhancements like shields, speed boosts, or devastating special attacks.
+Enemies and Bosses:
+
+Design a variety of enemy types, each with unique attack patterns and behaviors.
+Enemies become progressively more challenging as players advance through levels, requiring different strategies and upgraded weapons to defeat.
+Boss battles occur at the end of each level or at specific milestones, testing the player's skills and rewarding successful completion with significant upgrades or bonuses.
+Art and Audio:
+Visual Style:
+
+Utilize a retro wave aesthetic, incorporating neon colors, geometric shapes, and scanlines.
+Create visually stunning space environments, including asteroids, space stations, and cosmic backgrounds.
+Design visually distinct enemy ships and epic boss encounters.
+Sound and Music:
+
+Feature synthwave or retro wave-inspired music tracks to enhance the game's 80s atmosphere.
+Implement dynamic sound effects for shooting, explosions, and ship movements.
+Retro-inspired voiceovers for mission briefings, in-game announcements, or character interactions.
+Progression and Replay Value:
+Unlockables:
+
+Include hidden collectibles throughout levels, rewarding players with additional ships, weapons, or customization options when found.
+Unlock special abilities, upgrades, or cosmetic enhancements through completing specific challenges or achieving high scores.
+Multiplayer and Social Features:
+
+Cooperative Gameplay: Allow players to team up
+
 Visual Design:
 
 Utilize vibrant neon colors and a futuristic aesthetic reminiscent of the 80s.
