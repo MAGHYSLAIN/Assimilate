@@ -44,6 +44,10 @@ Players earn skill points by completing levels and defeating enemies, which can 
 Upgrades include enhanced firepower, special weapon types, improved shields, faster maneuverability, and advanced abilities like time dilation or energy absorption.
 Weapons and Power-Ups:
 
+![ghyslaing_retro_neon_space_shooter_skill_tree_incon_shield_phas](https://github.com/MAGHYSLAIN/Assimilate/assets/22080463/dc896da1-b9f3-472d-b0b2-ed6ef2f3187f)
+
+![ghyslaing_retro_neon_space_shooter_incon_beam_gum](https://github.com/MAGHYSLAIN/Assimilate/assets/22080463/f47b099a-bb0d-4985-b436-4deff9b7359f)
+
 Provide a selection of primary weapons with different characteristics, such as lasers, missiles, or energy beams.
 Players can discover or purchase additional weapons or unlock upgrades for existing weapons through gameplay progression.
 Power-ups appear throughout levels, granting temporary enhancements like shields, speed boosts, or devastating special attacks.
