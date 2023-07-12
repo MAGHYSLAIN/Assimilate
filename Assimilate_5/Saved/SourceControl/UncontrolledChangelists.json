@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Git/Assimilate/Assimilate_5/Content/Assimilate/Core/AssimilateHud.uasset",
+				"D:/Git/Assimilate/Assimilate_5/Content/Assimilate/Character/Pawn/BP_ThousandEagle.uasset",
+				"D:/Git/Assimilate/Assimilate_5/Content/UI_Kit/Widgets/TalentTree/TalentSlot.uasset",
+				"D:/Git/Assimilate/Assimilate_5/Content/Assimilate/UI/SkillTree/UMG_Skill_Tree.uasset"
+			]
+		}
+	]
+}
